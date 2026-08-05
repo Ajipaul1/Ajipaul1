@@ -1,30 +1,23 @@
-# Hi, I'm Aji Paul 👋
+# Aji Paul
+**Founder | Digital Architect | Systems Engineer**
 
-**Founder | Digital Architect | Performance Engineer**
+I do not write code for the sake of syntax; I build scalable digital infrastructure. My approach to software and search architecture is dictated by my background in mechanical engineering: zero-defect system design, structural precision, and maximum operational leverage. I engineer automated ecosystems that solve market bottlenecks and drive enterprise ROI.
 
-I apply industrial-grade engineering standards to digital ecosystems. With a background in mechanical engineering, I transition structural precision into scalable software, technical search architecture, and regional utility platforms. 
+ Operating Ventures
 
-Instead of just writing code or optimizing pages, I build companies that solve specific market problems. 
+*   **TechAuditPros | Founder**
+    An enterprise digital infrastructure agency. We architect Technical SEO frameworks, deploy custom ERP solutions, and build full-stack environments designed to scale operations and dominate search visibility. 
+*   **KochiRent | Founder**
+    A programmatic real estate and regional utility platform. Built on automated lead acquisition pipelines and localized search intent structures to capture the Kochi market.
+*   **Kerala Job Hub | Founder**
+    A regional employment portal engineered to route local talent to precise career opportunities via automated workflows and streamlined UI/UX.
 
-### 🚀 Ventures & Leadership
+Technical Architecture & Ecosystem
 
-*   **[TechAuditPros](https://techauditpros.com)** | *Founder*
-    A digital infrastructure agency driving enterprise growth. We specialize in Technical SEO services, full-stack website development, and custom ERP solutions (tailored business software) designed to scale operations and digital visibility.
-*   **[KochiRent](https://kochirent.com)** | *Founder*
-    A programmatic, localized platform streamlining property rentals and essential services across the Kochi region. 
-*   **[Kerala Job Hub](https://keralajobhub.com)** | *Founder*
-    A dedicated regional employment portal engineered to connect local talent with career opportunities across Kerala, featuring automated lead flows and localized search intent.
+My tech stack is strictly deployed for automation, data extraction, and search dominance.
 
-### 🛠️ The Foundation
-
-My approach leverages data automation and technical architecture to build self-sustaining digital assets.
-
-*   **Core Focus:** Platform Architecture, Technical SEO Audits, Business Logic & Automation
-*   **Tech & Tools:** Python (Data Analysis, Selenium, Pandas), HTML/CSS, JavaScript
-*   **Ecosystem:** Google Search Console, SEMrush, Ahrefs, Screaming Frog
-*   **Background:** Mechanical Engineering (Bringing refinery-level precision to code and search)
-
-📍 **Based in:** Ernakulam, Kerala | 🌐 Building for the Global Web
-
----
-*Building systems that scale. Always open to discussing digital architecture, programmatic SEO, and platform engineering.*
+*   **Data & Automation:** Python (Selenium, Pandas)
+*   **Search Infrastructure:** Programmatic SEO, Google Search Console, SEMrush, Ahrefs, Screaming Frog
+*   **Frontend & Logic:** JavaScript, HTML/CSS, Custom API Pipelines
+*   **Core Focus:** ERP Architecture, Technical SEO Audits, Business Logic Isolation
+Base:** Ernakulam, Kerala | 🌐 **Deployment:** Global
